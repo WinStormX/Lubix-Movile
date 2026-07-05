@@ -1,6 +1,6 @@
 # Lubix - Backend
 
-Backend con base de datos para el proyecto **Lubix**, desarrollado por **Yeinher Algarin**.
+Backend con base de datos para el proyecto **Lubix**.
 
 ## Descripción
 
