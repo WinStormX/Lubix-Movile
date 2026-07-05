@@ -2,7 +2,7 @@
 
 Plataforma de comercio electrónico compuesta por una **app móvil** (React Native / Expo) y un **backend** (FastAPI + PostgreSQL).
 
-Desarrollado por **Yeinher Algarin**.
+Desarrollado por **El Equipo De Lubix**.
 
 ---
 
